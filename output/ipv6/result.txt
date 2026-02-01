@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-01 10:55:26,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+2026-02-01 15:24:06,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 📺央视频道,#genre#
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -587,6 +587,8 @@ TVBJ1,https://hls-gateway.vpstv.net/streams/476199.m3u8
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 澳门莲花,http://php.jdshipin.com/amlh.php
 澳门莲花,https://tv.iill.top/mo/lhws
+澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
 东森新闻,https://mao.ffmking888.dpdns.org/?id=5p2x5qOu5paw6IGe5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 东森新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
 东森新闻,https://smt.858.qzz.io/Smart.php?id=ettvnews
@@ -749,6 +751,8 @@ VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 北京财经,https://migu.188766.xyz/?migutoken=8947a231bc3f272a3b8b835345cb974f&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=be646e9ac808c7495130d26b316a39fd&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 
+☘️天津频道,#genre#
+
 ☘️上海频道,#genre#
 七彩戏剧,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
 上海外语,http://z.b.bkpcp.top/m.php?id=shics
@@ -762,10 +766,12 @@ VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 上海新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-3.m3u8
 上海新闻综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=25507260c408a15502d6af016549a2bd534f8ee16f27ebb8a5190c2bd2db17f776e91cf973e8a56d65e3a3bb7d7ab4ff25b83f845861aec70c1f5f0746c4d974f309338100a358b24eb42fd6cf98961c94&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?userid=5559462299&sign=93533210bbd7f44f3ec42647a0503b0bdc093dea6ea6f5a73082c1eaf480a72fd9adc9894f158f7ecb6c0f1117bde4c3b1055738b86b230e6bd26fcac49b1456841120ee530969f93fe65f8e70b49e663d&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海第一财经,https://mgtv.ottiptv.cc/migu/608780988.m3u8?migutoken=0c7df30d952e5d120406d3eb259cd5e26ec6aa86037008719de147cc6fbc34e877c3e3d7b9617267f35521bdddc4c5995e6fc0583816a5df1bfe19814868525e736733676761a4b2d4db618e84
 上海第一财经,https://migu.188766.xyz/?migutoken=b8d7dbd0bc89492df1c76fe83baa3f8d&id=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%BB%8F&type=yy
 上海第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=2025091908013429b62173a5e24f8ea1f310d5ed32e792&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250919080134&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250919080134&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=6c828d22c926cc843970f3f1c7455bea&ddCalcu=a6eceb815285804d72c21cf932f60c7c9834
 上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=5b02a660ee7b507eff43f0fb9bccfb4488e2e52d8e9d0959bea8a92f27a5aa45781e4f158626f5a2e7de23e74111ac7642799d037382311742d1574a7da715f04770d6b37654851a06ee9a1be777c37701&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+上海第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?userid=5559462299&sign=b3beabde08677d9f956df287dbfd9005d491d59c67a3a8a1b31e4b4e436521a9e8ecb02c1943c93ce03f80f547b99a38e87f6f2f33e05d10b3a7e3d1f20e535b32801cddbf27f9d1d6157f73e8841b060c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
@@ -992,5 +998,3 @@ VIUTV,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-2.ctv
 汕头经济,https://stream1.freetv.fun/shan-tou-jing-ji-6.ctv
 茂名综合,https://hls-gateway.vpstv.net/streams/708982.m3u8
-
-☘️天津频道,#genre#
